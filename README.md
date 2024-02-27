@@ -1,5 +1,5 @@
 # book-store-graphql-project
-A GraphQL Service for serving book stores data
+A GraphQL Service for serving book store data
 
 ## Getting Started
 1. Run to install dependencies: `mvn clean install`
