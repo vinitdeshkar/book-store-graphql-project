@@ -1,7 +1,0 @@
-com/graphql/learn/GraphqlProjectApplication.class
-com/graphql/learn/controllers/BookController.class
-com/graphql/learn/entities/Book.class
-com/graphql/learn/services/BookService.class
-com/graphql/learn/repositories/BookRepo.class
-com/graphql/learn/controllers/BookInput.class
-com/graphql/learn/services/impl/BookServiceImpl.class
