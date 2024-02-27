@@ -22,6 +22,7 @@ public class BookController {
 
     @MutationMapping("createBook")
     public Book create(@Argument BookInput book){
+
         Book b = new Book();
 
         b.setTitle(book.getTitle());
